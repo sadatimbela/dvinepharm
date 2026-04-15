@@ -5,9 +5,11 @@ import { ShoppingBag, Minus, Plus, Trash2, ArrowRight, Loader2, Tag, CreditCard,
 import { useCartStore } from '../store/useCartStore';
 import { formatCurrency } from '@/utils/currency';
 import { supabase } from '@/utils/supabase';
+import { useAuth } from '@/hooks/useAuth';
 
 export function CartPanel() {
   const { items, total, updateQuantity, removeItem, clearCart, processSale, lastSale, resetLastSale } = useCartStore();
+  const { user } = useAuth();
   const [discount, setDiscount] = useState('0');
   const [isProcessing, setIsProcessing] = useState(false);
 
@@ -15,8 +17,8 @@ export function CartPanel() {
 
   const handlePay = async () => {
     setIsProcessing(true);
-    const { data: { session } } = await supabase.auth.getSession();
-    const userId = session?.user?.id;
+    
+    const userId = user?.id;
     if (!userId) {
       alert("Please log in to process sales.");
       setIsProcessing(false);
