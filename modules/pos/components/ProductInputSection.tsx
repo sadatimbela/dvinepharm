@@ -24,16 +24,6 @@ export function ProductInputSection() {
   const enablePOSScanner = useAppStore((s) => s.enablePOSScanner);
   const { currency } = useSettingsStore();
   
-  const recentSales = useLiveQuery(async () => {
-    const today = new Date().toISOString().split('T')[0];
-    return db.sales
-      .where('created_at')
-      .aboveOrEqual(today)
-      .reverse()
-      .limit(10)
-      .toArray();
-  }, []) || [];
-
   const barcodeInputRef = useRef<HTMLInputElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
 
@@ -298,40 +288,6 @@ export function ProductInputSection() {
             ))}
           </div>
         )}
-      </div>
-
-      {/* ── Recent Sales Area ── */}
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', marginTop: '12px' }}>
-        <div style={{ paddingLeft: '4px' }}>
-          <h3 className="text-label" style={{ fontSize: '12px' }}>Recent Transactions (Today)</h3>
-        </div>
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-           {recentSales.length === 0 ? (
-             <p style={{ fontSize: '12px', color: 'var(--text-muted)', textAlign: 'center', padding: '12px' }}>No sales yet today.</p>
-           ) : (
-             recentSales.map(sale => (
-               <div 
-                 key={sale.localId || sale.id}
-                 style={{
-                   display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                   padding: '10px 14px', background: '#fff', borderRadius: '10px',
-                   border: '1px solid var(--border)', fontSize: '13px'
-                 }}
-               >
-                 <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-                    <div style={{ width: 30, height: 30, borderRadius: '6px', background: 'var(--status-success-bg)', color: 'var(--status-success)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                      <Zap size={14} />
-                    </div>
-                    <div>
-                      <p style={{ fontWeight: 600, margin: 0 }}>TXN-{sale.id?.substring(0,6) || sale.localId?.substring(0,6)}</p>
-                      <p style={{ fontSize: '11px', color: 'var(--text-muted)', margin: 0 }}>{new Date(sale.created_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</p>
-                    </div>
-                 </div>
-                 <p style={{ fontWeight: 700, margin: 0 }}>{formatCurrency(sale.total_amount, currency)}</p>
-               </div>
-             ))
-           )}
-        </div>
       </div>
 
       <style>{`
