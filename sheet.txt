@@ -1,0 +1,1957 @@
+DATE 	PRODUCT NAME 	QUANTITY	SELL PRICE 
+			
+			
+8/21/2025	 Metronidazole Tabs 	20	2000
+	Ampiclox Caps 	10	2000
+	Kiss Condom 	1	1500
+	P2 T	1	4000
+	Dexaneomycin 	1	4000
+	Mg T	10	1000
+	Ascorbic Acid T	10	2000
+	Metronidazole Tabs 	10	1000
+	Vivian Tabs 	10	2000
+	Diclofenac Tabs 	10	1000
+	Cold Syrup 	1	4000
+	CTX Syrup 	1	
+	Pcm Tabs 	10	1000
+	Dawa 3	5	1000
+			30
+			
+8/23/2025	Ibuprofen Tabs 	30	3000
+	Skderm cream 	1 (Mama Mona) 	5000
+	Amoxicillin C. 	20 (Ma Mori dukani) 	2000
+	Diclopar Tabs 	10	1000
+	Nor 5	1	3000
+	Mifupain Tabs	15	3000
+	Pcm Tabs 	10	1000
+	Ibuprofen Tabs 	20	2000
+	Vivian Tabs 	10	2000
+	Amoxicillin C 	20	2000
+	Mifupain 	10	2000
+	Vitamin B 	10	1000
+			26
+			
+8/25/2025	CTX Syrup 	1	4000
+	Pcm T 	10	1000
+	Cold Syrup 	1	4000
+	Metronidazole Tabs 	30	3000
+	Ibuprofen 	15	1500
+	Amoxicillin C 	30	3000
+	Vitamin B 	10	1000
+	Diclopar T 	15	1500
+	Diclopar Tabs 	10	1000
+	Kiss Condom 	1	1000
+			21
+8/26/2025	Meloxicam Tabs 	14	7000
+	Diclopar Tabs 	10	1000
+	Mebendazole T	10	2000
+	Fefo T	60	6000
+	Crip water	1	4000
+	Ibuprofen Tabs 	20	2000
+	Ps	1	5000
+	Azuma T 	1	5000
+	Hydrocortisone cream 	1	4000
+	Pednisolone T 	10 Ngoje	2000
+	Amoxicillin C	30 kilindima	3000
+	Metronidazole Tabs	30 kilindima	3000
+	Pcm Tabs 	20 kilindima	2000
+	Cold Syrup 	1	4000
+	Dp	1	3000
+	Diclofenac T 5 	10	1000
+	Amoxicillin C 	10	1000
+			55
+			
+8/27/2025	Activa Gel 	1	4000
+	Diclopar Tabs 	10	1000
+	Spirit 	1	1500
+	Cetirizen T 	10	1000
+	Diclopar Tabs 	10	1000
+	Azithromicin T 	1	5000
+	Metronidazole Tabs 	30	3000
+	Ps	1	5000
+	Ampiclox T 	20	2000
+	Cetirizen T 	20	2000
+	Diclofenac Gel 	1	3000
+	Ampiclox Caps 	10	2000
+			30
+			
+8/28/2025	Albendazole T	1	2000
+	Diclopar Tabs 	10	1000
+	Mg Tabs 	10	1000
+	Ampiclox 	10	2000
+	CTX Tabs 	10	2000
+	Cetirizen T 	10	1000
+	Ibuprofen T 	10	1000
+	Omeprazole C 	10	2000
+			12
+8/29/2025	Cold Syrup 	1	4000
+	Ps	1	5000
+	Azithromicin T 	1	5000
+	Pednisolone T 	10	2000
+	Neuroton T	5	5000
+	Fluconazole C	5	5000
+	Omeprazole C 	10	2000
+	Amoxicillin C 	10	1000
+	Bisacodyle	10	2000
+	UPT 	2	2000
+	Diclopar Tabs 	20	2000
+	P2	1	5000
+			40
+8/30/2025	Pcm Syrup 	1	3000
+	Cold Syrup 	1 Montana 	4000
+	Ps 	1	5000
+	Doxcycline Caps 	10 Imma	2000
+	Ps	1	5000
+	Ts	1	3000
+	Doxcycline Caps 	10	2000
+	Metronidazole T 	30	3000
+	Cipro T 	10	2000
+	Dexaneomycin 	1 Ma melina	3000
+	CVP	1	5000
+	Clorimazole Cream 	1	3000
+			40
+8/31/2025	Ps	2	10,000
+	Metronidazole Tabs 	30	3000
+	Doxin C	10	2000
+	Erythromicin T	10	2000
+	Cetirizen T 	10	1000
+	CVC	1Linda	4000
+	Fluconazole T	5 Linda 	5000
+	Azithromicin T 	1 Linda 	5000
+	Bull	2	3000
+	Bull	1	1500
+			34
+9/1/2025	Mifupain T	10	2000
+	Ps	1	5000
+	P2	1	4000
+	Indometacin Caps 	10	2000
+	Piroxicam Caps 	10	3000
+	Coc	1	2000
+	PS	1	5000
+	Malafin T 	1	3000
+	Diclopar Tabs 	10	1000
+	Dr Cold Syrup	1	4000
+	Dawa 3	5	1000
+	P2	1	4000
+	Dp	2	8000
+	Skyderm cream 	1	5000
+	Cetirizen T 	10	1000
+			49
+9/2/2025	Azithromicin T 	1	5000
+	Ps	1	5000
+	Diclopar Tabs 	10	1000
+	Ps	1	5000
+	Njoi T 	1	3000
+	Ps	1	5000
+	Toff plus 	2	1000
+	Sheladol Syrup 	1	3000
+	Azithromicin Syrup 	1	5000
+			33
+9/3/2025	Albendazole Syrup 	1 jose	2500
+	Toff plus 	2 M. Rose	1000
+	Amoxicillin C 	20	2000
+	Cold Tabs 	1	1000
+	Cofta T	10	2000
+			8.5
+
+
+
+
+DATE	PRODUCT NAME 	AMMOUNT 	SELL PRICE 
+9/6/2025	Erythromicin t	20	3000
+	Metronidazole Tabs 	20	2000
+	Pcm Tabs 	10	1000
+	Hydrocortisone cream 	1 Pewa 	3000
+	Ibuprofen Tabs 	20	2000
+	P2	1	4000
+	Azithromicin T 	1	5000
+	Piroxicam Caps 	10	3000
+	Salimia Gel 	1 Mzee	5000
+			28
+9/7/2025	Mucolin Syrup 	1	3000
+	Cold T 	1	1000
+	Tinidazole T 	2	2000
+	Diclopar Tabs 	20	2000
+	Diclofenac Gel	1	3000
+	Bull Condom 	2	3000
+	Azithromicin T 	1	5000
+	Diclopar Tabs 	20	2000
+	Fluconazole Caps	5	5000
+			29
+9/8/2025	Metronidazole Syrup 	1	4000
+	Albendazole Syrup 	1	2000
+	Bull	1	1500
+	Dexaneomycin 	1	3000
+	Amoxicillin C 	30	3000
+	Pcm Tabs 	20	2000
+	Piroxicam Caps 	10	3000
+	Diclofenac Tabs 	10	1000
+	Coldril Syrup 	1	4000
+	Doxin Caps	10	2000
+	Azuma T	1	5000
+	Amoxicillin Caps 	20	2000
+			32
+9/9/2025	Omeprazole C 	10	2000
+	Tinidazole T 	1	1000
+	Piroxicam Caps 	10	3000
+	Alben Tabs 	1	2000
+	Dexaneomycin 	1	3000
+	Pcm Tabs 	10	1000
+	Vitamin B Syrup 	1	3000
+	Pcm Tabs 	10	1000
+	Dawa 3	15	3000
+	Bull	2	3000
+	Metronidazole Tabs 	60	6000
+	Doxin 	20	2000
+	Ps	1	5000
+			35
+9/10/2025	Amoxicillin C 	20	2000
+	Metronidazole Tabs 	20	2000
+	Pcm Tabs 	10	1000
+	Cetirizen T 	1	1000
+	Activa Gel 	1	4000
+	Dp	1	3000
+			13
+
+			
+			
+10/6/2025	Azuma T 	1	5000
+	Metronidazole Tabs 	30	3000
+	Doxin Caps 	10	2000
+	Kiss Condom 	1	1000
+	Metronidazole Tabs 	30	3000
+	Pcm Tabs 	10	1000
+	Tinidazole T 	2	2000
+	Dp	1	3000
+	Dexaneomycin 	1	3000
+	Mucolin Syrup 	1	3000
+	Pednisolone T 	5	1000
+	Ampiclox Caps 	10	2000
+	Ps	1	10,000
+	Doxin Caps 	10	2000
+	Metronidazole Tabs 	30	3000
+			44
+			
+10/7/2025	Ibuprofen Tabs 	20	2000
+	Metronidazole Syrup 	1	4000
+	Pedzinc Syrup 	1	3500
+	Burnox cream 	1	4000
+	Tetracycline Eye Ointment 	1	4000
+	Diclofenac Tabs 	20	2000
+	Cold Syrup 	1	4000
+	Ibuprofen Syrup 	1	4000
+	Malafin T 	1	3000
+	Ibuprofen Tabs 	30	3000
+	Coc 	1	2000
+	Mucolin Syrup 	1	3000
+	Cipron T	10	2000
+	Pcm Tabs 	20	2000
+	UPT 	2	2000
+	Amoxicillin C 	20	2000
+	Ibuprofen Tabs 	40	4000
+			50.5
+			
+10/8/2025	Pen V T 	10	2000
+	Vivian Tabs 	10	2000
+	Ampiclox Syrup 		4000
+	Metronidazole Syrup 	1	4000
+	Diclopar Tabs 	10	1000
+	Metronidazole Tabs 	50	5000
+	Ibuprofen Tabs 	20	2000
+	Amoxicillin C 	20	2000
+	Omeprazole C 	10	2000
+	Pcm Tabs 	10	1000
+	Piriton Tabs 	20	2000
+	CTX Tabs 	10	2000
+	CTX Syrup 	1	4000
+			33
+			
+10/9/2025	Ps	1	5000
+	Cipro	10	2000
+	Ibuprofen	1	1000
+	Tinidazole T 	1	1000
+	Ts	1	3000
+	Metronidazole Tabs 	30	3000
+	Amoxicillin C 	30	3000
+	Diclopar Tabs 	20	2000
+	Dexaneomycin 	1	3000
+	Dawa 3	5	1000
+			24
+			
+10/10/2025	Cold Syrup 	1	4000
+	Piriton Tabs 	10	1000
+	Ps	1	5000
+	Ibuprofen Tabs 	20	2000
+	Indometacin Caps 	10	2000
+	Vivian Tabs 10	10	2000
+	CTX Tabs 	10	2000
+	Indometacin Caps 	10	2000
+	Skyderm cream 	1	5000
+	Cipron T	10	2000
+	Pcm Tabs 	10	1000
+	Amoxicillin C 	30	3000
+			31
+			
+10/11/2025	Diclopar Tabs 	15	1500
+	Malafin T 	1	3000
+	Haloperidol	5	1000
+	Tinidazole T 	1	1000
+	Ps	1	5000
+	Ibuprofen Tabs 	20	2000
+	Cipron T	10	2000
+	Ts	2	6000
+			21.5
+			
+10/12/2025	P2	1	4000
+	Metronidazole Tabs 	20 Gile	2000
+	Cold Syrup 	1	4000
+	Emdelyn Syrup 	1	4000
+	Ps	1 Gile	5000
+	Amoxicillin C 	30	3000
+	Njoi T 	1	3000
+	Coc	1	2000
+	Eri Syrup 	1	4000
+	Ibuprofen Syrup 	2	8000
+	Emdelyn Syrup 	1	4000
+	Cold Syrup 	1	4000
+	Ts	1	3000
+			50
+			
+10/13/2025	Pcm Tabs 	20	2000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Diclopar Tabs 	10	1000
+	CTX 	10	2000
+	Cold T 	1	1000
+	Meloxicam Tabs 	10	3000
+	Pcm Syrup 	1	3000
+	Cetirizen Syrup 	1 (2k Maenge) 	3000
+	Amoxicillin C 	20	2000
+	Diclopar Activa Gel 	1(1k Mwambela) 	4000
+	Indometacin Caps 	5 "	1000
+	Meloxicam Tabs 	5	1000
+	Coc	1	2000
+	Zecuf Syrup 	1 (kkikuu) Josia	4000
+	CTX Tabs 	10"	2000
+	Bull 	1	1500
+	Piriton Tabs 	10	1000
+			36
+			
+10/14/2025	CTX Tabs 	10	2000
+	Dp	1	3000
+	Ampiclox Caps 	10	2000
+	Pcm Syrup 	1	3000
+	Cold Syrup 	1	4000
+	Erythromicin Syrup 	1	4000
+	Ibuprofen Syrup 	1	4000
+	Pedzinc Syrup 	1	4000
+	Ts	1	3000
+	Glucose 	2	2000
+	Ampiclox Caps 	15	3000
+	Piriton Tabs 	10	1000
+	Nifedipine T	10	2000
+	Metronidazole Tabs 	30	3000
+	Pcm Tabs 	10	1000
+	Indometacin Caps 	10	2000
+	Pcm Syrup 	1	3000
+	Cetirizen Syrup 	1	4000
+			50
+			
+10/15/2025	Pednisolone T 	10	2000
+	Cold Syrup 	1	4000
+	Pcm Tabs 	20	2000
+			8
+			
+10/16/2025	Cold Syrup 	1	4000
+	Mucolin P 	1	3000
+	Pcm Tabs 	10	1000
+	Diclopar Tabs 	10	1000
+	ORS	1	1000
+	Cipron T	10	2000
+	Dawa 3	5	1000
+	Skyderm cream 	1	5000
+	Amoxicillin DT	5	1000
+	ORS	2	2000
+			21
+			
+10/17/2025	Ts	1	3000
+	Azithromicin T 	1	5000
+	Metronidazole Tabs 	20	2000
+	Ibuprofen Tabs 	10	1000
+	Ps	2	10,000
+	Ts 	1	3000
+	Dettol soap 	1	2000
+	Cipron t	10	2000
+	Pcm 	10	1000
+	Ts 	1	3000
+	Dawa 3	5	1000
+	Amoxicillin Syrup 	1	4000
+	Pen V 	5	1000
+	Metronidazole Tabs 	30	3000
+			41
+			
+10/18/2025	Ps	2	10,000
+	Pcm Tabs 	10	1000
+	Azuma T 	1	5000
+	duphaston 	4	10,000
+	Omeprazole C 	10	2000
+	Dawa 3	5	1000
+	Njoi T 	1	3000
+	Kiss Condom 	1	1000
+	Activa Gel 	1	4000
+			37
+			
+10/19/2025	 N/A 	 N/A 	N/A
+			
+10/20/2025	Dp 	1	3000
+	Dexaneomycin 	1	3000
+	Ts	1	3000
+	Cipron T	10	2000
+	Pcm	20	2000
+	Tinidazole T 	1	1000
+			14
+			
+10/21/2025	Ts	1	3000
+	Ps	1	5000
+	Pcm Tabs 	10	1000
+	Cipron Tabs 	10	2000
+	Kiss Condom 	2	2000
+	Pcm Tabs 	10	2000
+	Omeprazole C 	5	1000
+	Amoxicillin C 	20	2000
+			18
+			
+10/22/2025	Fluconazole Caps 	10	10,000
+	Hydrocortisone cream 	1 Lily mzazi 	3000
+	Dp	1	3000
+	Amoxicillin C 	2	2000
+	Dp	1	3000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Dexaneomycin 	1	3000
+	CTX Tabs 	10	2000
+	Pcm Tabs 	10	1000
+	Cold T 	2	2000
+			32
+			
+10/23/2025	Pcm Tabs 	10	1000
+	UPT 	1	1000
+	Emdelyn Syrup 	1 Maenge	4000
+	Azithromicin T 	1	5000
+	Cipron Tabs 	1	2000
+	Kiss	2	2000
+	Dexaneomycin 	1	3000
+	Albendazole t	1	2000
+	Omeprazole C 	10	2000
+	Zecuf Syrup 	1	4000
+			26
+			
+10/24/2025	Albendazole T 	2	4000
+	Ts	2	6000
+	Pcm Tabs 	10	1000
+	Pcm Tabs 	10	1000
+	Emdelyn Syrup 	1	4000
+			16
+			
+10/25/2025	Emdelyn Syrup 	1	4000
+	Cetirizen T 	10	1000
+	Vivian Tabs 	10	2000
+	Ts	2	6000
+	Doxin Caps 	10	2000
+	Ampiclox Caps 	10	2000
+	Dawa 3	5	1000
+	Cetirizen Syrup 	1	4000
+	Amoxcluv Syrup 	1	4000
+	Vitamin B Syrup 	1	3000
+	Hydrocortisone cream 	1	3000
+	Fluconazole Caps 	5	5000
+			37
+			
+10/26/2025	Pcm Syrup 	1	3000
+	Cetirizen Syrup 	1	4000
+	Albendazole T 	2	4000
+			11
+			
+10/27/2025	Dp	1	3000
+	Activa Gel 	1	4000
+	Diclopar Tabs 	10	1000
+	Dawa 3 	5	1000
+	Promethazine T 	10	2000
+	Piriton Tabs 	10	1000
+	Skderm cream 	1	5000
+			17
+			
+10/28/2025	Tramadol T 	10	2000
+	Piroxicam Caps 	10	3000
+	Prednisolone 	20	4000
+	Pcm Tabs 	20	2000
+	UPT 	2	2000
+	Pcm Tabs 	20	2000
+	Tinidazole T 	1	1000
+	Kiss Condom 	1	1000
+	Spirit 	1	1000
+	Sonaderm Cream 	1	4000
+			22
+			
+10/29/2025	Burnox cream 	1	4000
+	Albendazole T 	1	2000
+	Ibuprofen Syrup 	1 Kevoo 	4000
+	Tretacycline Eye Ointment 	1	4000
+	Pcm 	20	2000
+			16
+			
+10/30/2025	Cetirizen T 	10	1000
+	Hydrocortisone cream 	1	3000
+	Pcm T 	10	1000
+	Burnox cream 	1	4000
+	Pen V 	10	2000
+	Metronidazole Tabs 	20	2000
+	P2	1	4000
+	Amoxicillin C 	20	2000
+	Diclofenac Tabs 	10	1000
+	Amoxicillin C 	20	2000
+	Metronidazole Tabs 	20 M. Tino	2000
+	Pcm Tabs 	10	1000
+	P2	1	4000
+	Cold Syrup 	1	4000
+	Pcm Tabs 	10	1000
+	Pcm Syrup 	1	3000
+			37
+10/31/2025	Pcm Tabs 	20	2000
+	Cetirizen T 	10	1000
+	Pen V 	10	2000
+	Ps	1	5000
+	Pcm Tabs 	10	1000
+	Pcm Syrup 	1	3000
+	Erythromicin Syrup 	1	4000
+	Pedzinc Syrup 	1	4000
+	Pcm Tabs 	20	2000
+	Coc 	1	2000
+	Pcm Tabs 	10	1000
+	UPT 	1	1000
+			28
+			
+11/1/2025	Pcm Tabs 	10	1000
+	Ps	1	5000
+	Doxin Caps 	10	2000
+	Ibuprofen Tabs 	1	1000
+	Ts	2	6000
+	Ts	1	3000
+	Azithromicin Syrup 	1	4000
+	Dexaneomycin 	1	3000
+	Pcm 	10	1000
+	Dexaneomycin 	2	6000
+	Salbuctam Inj	1	10,000
+			42
+			
+11/2/2025	Metronidazole Tabs 	20	2000
+	ORS 	1	1000
+	Pcm Tabs 	10	1000
+	Fluconazole Caps 	5	5000
+	Pessaries 	1	4000
+	Dp	1	3000
+	Pcm Tabs 	15	1500
+	Diclopar Tabs 	10(Dada Jirani) 	1000
+	Dexaneomycin 	1(Festo) 	3000
+	Cold Syrup 	1	4000
+	Indometacin Caps 	10	2000
+	Diclopar Tabs 	10	1000
+	Activa Gel 	1	4000
+			33.5
+			
+11/3/2025	Glucose 	2	2000
+	Pcm 	10	1000
+	Piroxicam Caps 	10	3000
+	Albendazole T 	1	2000
+	Albendazole T 	1	2000
+	Ibu 	10	1000
+	Nitroflu	10	2000
+	Ibuprofen Tabs 	10	1000
+	Ps	1	5000
+	Ts	1	3000
+	Pcm Tabs 	10	1000
+	Ts	2	6000
+	Doxin Caps 	10	2000
+	Ps	1	5000
+	Ibuprofen Tabs 	10	1000
+	Cetirizen Syrup 	1	4000
+	Cefixime Caps 	3	3000
+	Piriton Tabs 	20	2000
+	Cold Syrup 	1	4000
+			50
+			
+11/4/2025	Ps	1	5000
+	Doxin Caps 	10	2000
+	Metronidazole Tabs 	30	3000
+	Cold Syrup 	1	4000
+	Ps	1	5000
+	Amoxcluv T 	1	8000
+	Tramadol T 	10	2000
+	Ampiclox Syrup 	1	4000
+	Metronidazole Syrup 	1	4000
+	Pcm 	10	1000
+			38
+			
+11/5/2025	Piroxicam Caps 	10	3000
+	Diclopar Tabs 	10	1000
+	Albendazole Syrup 	1	2500
+	Albendazole T 	1	2000
+	Burnox cream 	1 (Bibi wa Ibuprofen) 	4000
+	Metronidazole Tabs 	30	3000
+	Ampiclox Caps 	10	3000
+	Omeprazole C 	5	1000
+	Pcm Tabs 	30	3000
+	Fefo T 	10	1000
+			23
+
+            			
+			
+10/6/2025	Azuma T 	1	5000
+	Metronidazole Tabs 	30	3000
+	Doxin Caps 	10	2000
+	Kiss Condom 	1	1000
+	Metronidazole Tabs 	30	3000
+	Pcm Tabs 	10	1000
+	Tinidazole T 	2	2000
+	Dp	1	3000
+	Dexaneomycin 	1	3000
+	Mucolin Syrup 	1	3000
+	Pednisolone T 	5	1000
+	Ampiclox Caps 	10	2000
+	Ps	1	10,000
+	Doxin Caps 	10	2000
+	Metronidazole Tabs 	30	3000
+			44
+			
+10/7/2025	Ibuprofen Tabs 	20	2000
+	Metronidazole Syrup 	1	4000
+	Pedzinc Syrup 	1	3500
+	Burnox cream 	1	4000
+	Tetracycline Eye Ointment 	1	4000
+	Diclofenac Tabs 	20	2000
+	Cold Syrup 	1	4000
+	Ibuprofen Syrup 	1	4000
+	Malafin T 	1	3000
+	Ibuprofen Tabs 	30	3000
+	Coc 	1	2000
+	Mucolin Syrup 	1	3000
+	Cipron T	10	2000
+	Pcm Tabs 	20	2000
+	UPT 	2	2000
+	Amoxicillin C 	20	2000
+	Ibuprofen Tabs 	40	4000
+			50.5
+			
+10/8/2025	Pen V T 	10	2000
+	Vivian Tabs 	10	2000
+	Ampiclox Syrup 		4000
+	Metronidazole Syrup 	1	4000
+	Diclopar Tabs 	10	1000
+	Metronidazole Tabs 	50	5000
+	Ibuprofen Tabs 	20	2000
+	Amoxicillin C 	20	2000
+	Omeprazole C 	10	2000
+	Pcm Tabs 	10	1000
+	Piriton Tabs 	20	2000
+	CTX Tabs 	10	2000
+	CTX Syrup 	1	4000
+			33
+			
+10/9/2025	Ps	1	5000
+	Cipro	10	2000
+	Ibuprofen	1	1000
+	Tinidazole T 	1	1000
+	Ts	1	3000
+	Metronidazole Tabs 	30	3000
+	Amoxicillin C 	30	3000
+	Diclopar Tabs 	20	2000
+	Dexaneomycin 	1	3000
+	Dawa 3	5	1000
+			24
+			
+10/10/2025	Cold Syrup 	1	4000
+	Piriton Tabs 	10	1000
+	Ps	1	5000
+	Ibuprofen Tabs 	20	2000
+	Indometacin Caps 	10	2000
+	Vivian Tabs 10	10	2000
+	CTX Tabs 	10	2000
+	Indometacin Caps 	10	2000
+	Skyderm cream 	1	5000
+	Cipron T	10	2000
+	Pcm Tabs 	10	1000
+	Amoxicillin C 	30	3000
+			31
+			
+10/11/2025	Diclopar Tabs 	15	1500
+	Malafin T 	1	3000
+	Haloperidol	5	1000
+	Tinidazole T 	1	1000
+	Ps	1	5000
+	Ibuprofen Tabs 	20	2000
+	Cipron T	10	2000
+	Ts	2	6000
+			21.5
+			
+10/12/2025	P2	1	4000
+	Metronidazole Tabs 	20 Gile	2000
+	Cold Syrup 	1	4000
+	Emdelyn Syrup 	1	4000
+	Ps	1 Gile	5000
+	Amoxicillin C 	30	3000
+	Njoi T 	1	3000
+	Coc	1	2000
+	Eri Syrup 	1	4000
+	Ibuprofen Syrup 	2	8000
+	Emdelyn Syrup 	1	4000
+	Cold Syrup 	1	4000
+	Ts	1	3000
+			50
+			
+10/13/2025	Pcm Tabs 	20	2000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Diclopar Tabs 	10	1000
+	CTX 	10	2000
+	Cold T 	1	1000
+	Meloxicam Tabs 	10	3000
+	Pcm Syrup 	1	3000
+	Cetirizen Syrup 	1 (2k Maenge) 	3000
+	Amoxicillin C 	20	2000
+	Diclopar Activa Gel 	1(1k Mwambela) 	4000
+	Indometacin Caps 	5 "	1000
+	Meloxicam Tabs 	5	1000
+	Coc	1	2000
+	Zecuf Syrup 	1 (kkikuu) Josia	4000
+	CTX Tabs 	10"	2000
+	Bull 	1	1500
+	Piriton Tabs 	10	1000
+			36
+			
+10/14/2025	CTX Tabs 	10	2000
+	Dp	1	3000
+	Ampiclox Caps 	10	2000
+	Pcm Syrup 	1	3000
+	Cold Syrup 	1	4000
+	Erythromicin Syrup 	1	4000
+	Ibuprofen Syrup 	1	4000
+	Pedzinc Syrup 	1	4000
+	Ts	1	3000
+	Glucose 	2	2000
+	Ampiclox Caps 	15	3000
+	Piriton Tabs 	10	1000
+	Nifedipine T	10	2000
+	Metronidazole Tabs 	30	3000
+	Pcm Tabs 	10	1000
+	Indometacin Caps 	10	2000
+	Pcm Syrup 	1	3000
+	Cetirizen Syrup 	1	4000
+			50
+			
+10/15/2025	Pednisolone T 	10	2000
+	Cold Syrup 	1	4000
+	Pcm Tabs 	20	2000
+			8
+			
+10/16/2025	Cold Syrup 	1	4000
+	Mucolin P 	1	3000
+	Pcm Tabs 	10	1000
+	Diclopar Tabs 	10	1000
+	ORS	1	1000
+	Cipron T	10	2000
+	Dawa 3	5	1000
+	Skyderm cream 	1	5000
+	Amoxicillin DT	5	1000
+	ORS	2	2000
+			21
+			
+10/17/2025	Ts	1	3000
+	Azithromicin T 	1	5000
+	Metronidazole Tabs 	20	2000
+	Ibuprofen Tabs 	10	1000
+	Ps	2	10,000
+	Ts 	1	3000
+	Dettol soap 	1	2000
+	Cipron t	10	2000
+	Pcm 	10	1000
+	Ts 	1	3000
+	Dawa 3	5	1000
+	Amoxicillin Syrup 	1	4000
+	Pen V 	5	1000
+	Metronidazole Tabs 	30	3000
+			41
+			
+10/18/2025	Ps	2	10,000
+	Pcm Tabs 	10	1000
+	Azuma T 	1	5000
+	duphaston 	4	10,000
+	Omeprazole C 	10	2000
+	Dawa 3	5	1000
+	Njoi T 	1	3000
+	Kiss Condom 	1	1000
+	Activa Gel 	1	4000
+			37
+			
+10/19/2025	 N/A 	 N/A 	N/A
+			
+10/20/2025	Dp 	1	3000
+	Dexaneomycin 	1	3000
+	Ts	1	3000
+	Cipron T	10	2000
+	Pcm	20	2000
+	Tinidazole T 	1	1000
+			14
+			
+10/21/2025	Ts	1	3000
+	Ps	1	5000
+	Pcm Tabs 	10	1000
+	Cipron Tabs 	10	2000
+	Kiss Condom 	2	2000
+	Pcm Tabs 	10	2000
+	Omeprazole C 	5	1000
+	Amoxicillin C 	20	2000
+			18
+			
+10/22/2025	Fluconazole Caps 	10	10,000
+	Hydrocortisone cream 	1 Lily mzazi 	3000
+	Dp	1	3000
+	Amoxicillin C 	2	2000
+	Dp	1	3000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Dexaneomycin 	1	3000
+	CTX Tabs 	10	2000
+	Pcm Tabs 	10	1000
+	Cold T 	2	2000
+			32
+			
+10/23/2025	Pcm Tabs 	10	1000
+	UPT 	1	1000
+	Emdelyn Syrup 	1 Maenge	4000
+	Azithromicin T 	1	5000
+	Cipron Tabs 	1	2000
+	Kiss	2	2000
+	Dexaneomycin 	1	3000
+	Albendazole t	1	2000
+	Omeprazole C 	10	2000
+	Zecuf Syrup 	1	4000
+			26
+			
+10/24/2025	Albendazole T 	2	4000
+	Ts	2	6000
+	Pcm Tabs 	10	1000
+	Pcm Tabs 	10	1000
+	Emdelyn Syrup 	1	4000
+			16
+			
+10/25/2025	Emdelyn Syrup 	1	4000
+	Cetirizen T 	10	1000
+	Vivian Tabs 	10	2000
+	Ts	2	6000
+	Doxin Caps 	10	2000
+	Ampiclox Caps 	10	2000
+	Dawa 3	5	1000
+	Cetirizen Syrup 	1	4000
+	Amoxcluv Syrup 	1	4000
+	Vitamin B Syrup 	1	3000
+	Hydrocortisone cream 	1	3000
+	Fluconazole Caps 	5	5000
+			37
+			
+10/26/2025	Pcm Syrup 	1	3000
+	Cetirizen Syrup 	1	4000
+	Albendazole T 	2	4000
+			11
+			
+10/27/2025	Dp	1	3000
+	Activa Gel 	1	4000
+	Diclopar Tabs 	10	1000
+	Dawa 3 	5	1000
+	Promethazine T 	10	2000
+	Piriton Tabs 	10	1000
+	Skderm cream 	1	5000
+			17
+			
+10/28/2025	Tramadol T 	10	2000
+	Piroxicam Caps 	10	3000
+	Prednisolone 	20	4000
+	Pcm Tabs 	20	2000
+	UPT 	2	2000
+	Pcm Tabs 	20	2000
+	Tinidazole T 	1	1000
+	Kiss Condom 	1	1000
+	Spirit 	1	1000
+	Sonaderm Cream 	1	4000
+			22
+			
+10/29/2025	Burnox cream 	1	4000
+	Albendazole T 	1	2000
+	Ibuprofen Syrup 	1 Kevoo 	4000
+	Tretacycline Eye Ointment 	1	4000
+	Pcm 	20	2000
+			16
+			
+10/30/2025	Cetirizen T 	10	1000
+	Hydrocortisone cream 	1	3000
+	Pcm T 	10	1000
+	Burnox cream 	1	4000
+	Pen V 	10	2000
+	Metronidazole Tabs 	20	2000
+	P2	1	4000
+	Amoxicillin C 	20	2000
+	Diclofenac Tabs 	10	1000
+	Amoxicillin C 	20	2000
+	Metronidazole Tabs 	20 M. Tino	2000
+	Pcm Tabs 	10	1000
+	P2	1	4000
+	Cold Syrup 	1	4000
+	Pcm Tabs 	10	1000
+	Pcm Syrup 	1	3000
+			37
+10/31/2025	Pcm Tabs 	20	2000
+	Cetirizen T 	10	1000
+	Pen V 	10	2000
+	Ps	1	5000
+	Pcm Tabs 	10	1000
+	Pcm Syrup 	1	3000
+	Erythromicin Syrup 	1	4000
+	Pedzinc Syrup 	1	4000
+	Pcm Tabs 	20	2000
+	Coc 	1	2000
+	Pcm Tabs 	10	1000
+	UPT 	1	1000
+			28
+			
+11/1/2025	Pcm Tabs 	10	1000
+	Ps	1	5000
+	Doxin Caps 	10	2000
+	Ibuprofen Tabs 	1	1000
+	Ts	2	6000
+	Ts	1	3000
+	Azithromicin Syrup 	1	4000
+	Dexaneomycin 	1	3000
+	Pcm 	10	1000
+	Dexaneomycin 	2	6000
+	Salbuctam Inj	1	10,000
+			42
+			
+11/2/2025	Metronidazole Tabs 	20	2000
+	ORS 	1	1000
+	Pcm Tabs 	10	1000
+	Fluconazole Caps 	5	5000
+	Pessaries 	1	4000
+	Dp	1	3000
+	Pcm Tabs 	15	1500
+	Diclopar Tabs 	10(Dada Jirani) 	1000
+	Dexaneomycin 	1(Festo) 	3000
+	Cold Syrup 	1	4000
+	Indometacin Caps 	10	2000
+	Diclopar Tabs 	10	1000
+	Activa Gel 	1	4000
+			33.5
+			
+11/3/2025	Glucose 	2	2000
+	Pcm 	10	1000
+	Piroxicam Caps 	10	3000
+	Albendazole T 	1	2000
+	Albendazole T 	1	2000
+	Ibu 	10	1000
+	Nitroflu	10	2000
+	Ibuprofen Tabs 	10	1000
+	Ps	1	5000
+	Ts	1	3000
+	Pcm Tabs 	10	1000
+	Ts	2	6000
+	Doxin Caps 	10	2000
+	Ps	1	5000
+	Ibuprofen Tabs 	10	1000
+	Cetirizen Syrup 	1	4000
+	Cefixime Caps 	3	3000
+	Piriton Tabs 	20	2000
+	Cold Syrup 	1	4000
+			50
+			
+11/4/2025	Ps	1	5000
+	Doxin Caps 	10	2000
+	Metronidazole Tabs 	30	3000
+	Cold Syrup 	1	4000
+	Ps	1	5000
+	Amoxcluv T 	1	8000
+	Tramadol T 	10	2000
+	Ampiclox Syrup 	1	4000
+	Metronidazole Syrup 	1	4000
+	Pcm 	10	1000
+			38
+			
+11/5/2025	Piroxicam Caps 	10	3000
+	Diclopar Tabs 	10	1000
+	Albendazole Syrup 	1	2500
+	Albendazole T 	1	2000
+	Burnox cream 	1 (Bibi wa Ibuprofen) 	4000
+	Metronidazole Tabs 	30	3000
+	Ampiclox Caps 	10	3000
+	Omeprazole C 	5	1000
+	Pcm Tabs 	30	3000
+	Fefo T 	10	1000
+			23
+
+
+            			
+11/6/2025	__NA___	NA 	NA
+			
+11/7/2025	Clorimazole Cream 	1	3000
+	Cold Syrup 	1	4000
+	Nifedipine T	10	2000
+	Pcm Tabs 	10	1000
+	Cold Syrup 	1	4000
+	Duphaston T	10	25,000
+			39
+			
+11/9/2025	Ts	2	6000
+	Albendazole T 	3	6000
+	Kiss 	5	5000
+	Ts	1	3000
+			20
+			
+11/10/2025	Metronidazole Tabs 	30	3000
+	Ibuprofen Tabs 	10	1000
+	Dp	1	3000
+	Njoi 	1	3000
+	Amoxicillin C 	30	3000
+			13
+			
+11/11/2025	Coc	1	2000
+	Azithromicin T 	1	5000
+	Metronidazole Tabs 	30	3000
+	Amoxicillin C 	20	2000
+	Diclopar Tabs 	20	2000
+			14
+			
+11/12/2025	Dp 	1	3000
+	Piriton Tabs 	10	1000
+	Diclopar Tabs 	10	1000
+	Fefo T 	20	2000
+	CTX 	10	2000
+	Pcm Tabs 	10	1000
+			10
+			
+11/13/2025	Salbactum inj	1	10,000
+	Metronidazole Tabs 	20	2000
+	Doxin Caps 	10	2000
+	Mebendazole 	10	2000
+	Cetirizen T 	20	2000
+	Kiss Condom 	1	1000
+			19
+			
+11/14/2025	Metronidazole Tabs 	20	2000
+	Cetirizen Syrup 	2	8000
+	Erythromicin Syrup 	1	4000
+	Cipron Tabs 	10	2000
+	Ibuprofen Tabs 	10	1000
+	Metronidazole Syrup 	1	4000
+	Amoxicillin C 	30	3000
+	Pcm Tabs 	15	1500
+	Bull Condom 	2	3000
+	Diclopar Tabs 	10	1000
+			29.5
+			
+11/15/2025	Diclopar Tabs 	10	1000
+
+																
+12/6/2025	Ps	1	5000													
+	Metronidazole Tabs 	30	3000													
+	UPT 	2	2000													
+	Amoxicillin C 	20	2000													
+	Albendazole T 	1	2000													
+	Erythromicin Syrup 	1	4000													
+	Ibuprofen Tabs 	10	1000													
+	Albendazole T 	1	2000													
+			21													
+																
+12/7/2025	  - - - - - - 	---	NA 													
+																
+12/8/2025	Dp	1	4000													
+	Burnox cream 	1	4000													
+	Amoxcluv T 	1	9000													
+	Pen V 	15	3000													
+	Diclopar Activa 	1	4000													
+	Diclopar Tabs 	10	1000													
+	Metronidazole Tabs 	20	2000													
+	Bisacodyle T	20	4000													
+	Kiss Condom 	1	1000													
+	Cold T 	1	1000													
+	CTX Tabs 	20	4000													
+	Ibuprofen Tabs 	20	2000													
+	Cipro Tabs 	10	2000													
+			41													
+																
+12/9/2025	Ps	1	5000													
+	Cipron Tabs 	10	2000													
+	Metronidazole Tabs 	20	2000													
+	Pcm Tabs 	10	1000													
+	Dp	1	3000													
+	Rheumac Gel	1	3000													
+	Co-trimoxazole Tabs 	15	3000													
+	Piroxicam Caps 	10	3000													
+	Pednisolone T 	20	4000													
+	Pen V 	30	6000													
+	Clorimazole V Pessaries 	1	5000													
+	Ibuprofen Tabs 	20	2000													
+	Cipron Tabs 	10	2000													
+			41													
+																
+12/10/2025	Pcm Tabs 	10	1000													
+	Metronidazole Tabs 	20	2000													
+	P2	1	4000													
+	Mg 	20	2000													
+			9													
+																
+12/11/2025	Emdelyn Syrup 	1	4000													
+	Dp	1	4000													
+	Hyscine t	10	2000													
+	Ibuprofen Tabs 	20	2000													
+	Tinidazole T 	2	2000													
+	Magnesium T	10	1000													
+	Diclofenac T 	10	1000													
+	Kiss Condom 	2	2000													
+	CVP	1	5000													
+	C. Cream 	1	3000													
+	UPT 	2	2000													
+	Tramadol T 	20	2000													
+			29													
+																
+12/12/2025	-----NA------		NA													
+																
+12/13/2025	-----NA------		NA													
+																
+12/14/2025			NA													
+																
+12/15/2025			NA													
+																
+12/15/2025			NA													
+																
+12/16/2025	Fluconazole Caps 	7	7000													
+	CVP	1	5000													
+	Clorimazole Cream 	1	3000													
+	Azithromicin T 	1	5000													
+	Ciprofloxacin T 	10	2000													
+	Tinidazole T 	3	3000													
+	Diclopar Tabs 	10	1000													
+	UPT 	1	1000													
+	Mucolin Syrup 	1	3000													
+	Pcm Tabs 	20	2000													
+	Metronidazole Tabs 	20	2000													
+			34													
+																
+12/17/2025	CTX Tabs 	10	2000													
+	Pcm Tabs 	15	1500													
+	Kiss Condom 	5	5000													
+	Omeprazole Caps 	10	2000													
+			10													
+																
+12/18/2025	Metronidazole Syrup 	1	4000													
+	Pcm Tabs 	1	3000													
+	Erythromicin Syrup 	1	4000													
+	Cipron Tabs 	1	2000													
+	Diclopar Tabs 	10	1000													
+	Tinidazole T 	1	1000													
+	Erythromicin T	10	2000													
+	Albendazole T 	1	2000													
+	CTX Tabs 	10	2000													
+	Pcm Syrup 	1	3000													
+	P2 	1	5000													
+	Dawa 3 	5	1000													
+			30													
+																
+12/19/2025	Diclofenac Gel 	1	3000													
+	Diclopar Tabs 	10	1000													
+	Azithromicin T 	1	5000													
+	Mifupain T	10	2000													
+	Dexaneomycin 	1	3000													
+	Diclopar Tabs 	10	1000													
+	Magnesium T	20	2000													
+	CTX Tabs 	10	2000													
+	Cold T 	1	1000													
+			20													
+																
+12/20/2025	CTX Tabs 	10	2000													
+	Amoxicillin C 	20	2000													
+	Ibuprofen Tabs 	20	2000													
+	Mrdt 	1	3000													
+	Mouth Wash 	1	3000													
+	Diclofenac Tabs 	10	1000													
+	Ibuprofen Tabs 	20	2000													
+	S. Gloves 	1	2000													
+	Pcm Syrup 	1	3000													
+	Cold Syrup 	2	8000													
+	Mrdt 	1	3000													
+	Ibuprofen Tabs 	10	1000													
+	Haloperidol T 	60	12,000													
+	Benzehexol T	30	9000													
+	Diclofenac Injection	1	3000													
+	Dp 	1	4000													
+	Dawa 3	5	1000													
+	Pcm Tabs 	10	1000													
+	Diclofenac Gel 	1	3000													
+	Duphaston Tabs 	10	25,000													
+			90													
+																
+																
+12/21/2025	Burnox cream 	1	4000													
+	Pcm Tabs 	20	2000													
+	Kiss Condom 	1	1000													
+	Njoi T 	2(3k Montana) 	6000													
+	Diclofenac Gel 	1	3000													
+	Salimia Gel 1	1	5000													
+	Metronidazole Tabs 	30	3000													
+	Ibuprofen Tabs 	20	2000													
+			26													
+																
+12/22/2025	Cetirizen Syrup 	1	4000													
+	Amoxicillin Syrup 	1	4000													
+	Ibuprofen Tabs 	10	1000													
+			5													
+																
+																
+																
+12/24/2025	Metronidazole Tabs 	30	3000													
+	Doxin Caps 	15	3000													
+	Cetirizen T 	20	2000													
+	Ps	1	5000													
+	Ps	2	10,000													
+	Azithromicin T 	1	5000													
+	Ibuprofen Tabs 	20	2000													
+	CVP	1	5000													
+	Ts	1	3000													
+	Fluconazole Caps 	5	5000													
+	Dexaneomycin 	1	3000													
+	Malafin T 	1	3000													
+	Azithromicin T 	1	5000													
+	Ibuprofen Tabs 	20	2000													
+	Ts	1	3000													
+			59													
+																
+12/25/2025	Ps	1	5000													
+	Declofenac Gel 	1	3000													
+	Ibuprofen Tabs	15	1500													
+	Doxin Caps	15	3000													
+	Metronidazole Tabs	30	3000													
+	Ps	1	5000													
+	Fluconazole Caps	5	5000													
+	Pcm Tabs 	20	2000													
+	Metronidazole Tabs 	20	2000													
+	Ibuprofen Tabs 	10	1000													
+	Azithromicin T 	1	5000													
+	Metronidazole Tabs 	30	3000													
+	Azithromicin T 	1	5000													
+	Ps	1	5000													
+	Doxin Caps 	15	3000													
+	Metronidazole T 	30	3000													
+	Bull Condom 	1	1500													
+			56													
+																
+12/26/2025	Metronidazole Tabs	20	2000													
+	Albendazole T 	1	2000													
+	Erythromicin T	15	3000													
+	Dp	1	4000													
+	Diclofenac Tabs 	10	1000													
+	Prednisolone 	10	2000													
+			14													
+																
+																
+12.27.2025	UPT 	3	3000													
+	Pcm Tabs 	10	1000													
+	CTX Tabs 	10	2000													
+	Declofenac Gel 	1	3000													
+	Prednisolone T	10	2000													
+	Ibuprofen Tabs 	10	1000													
+	Coc 	1	2500													
+	Ibuprofen Tabs 	10	1000													
+	Emdelyn Syrup 	1	4000													
+	Mifupain 	1	1000													
+			19.5													
+																
+12.28.2025	CTX Tabs 	10	2000													
+	Cold T 	1	1000													
+	Azithromicin T 	1 Ester bushiri	5000													
+	CVP	1	5000													
+	Clorimazole Cream 	1	3000													
+	Ibuprofen Tabs 	10	1000													
+	Indometacin Caps 	10	2000													
+	UPT 	3	3000													
+	Doxin Caps 	10	2000													
+	Metronidazole Tabs 	20	2000													
+	Vivian Tabs 	10	2000													
+	CTX Tabs 	20	2000													
+	Cold T 	1	1000													
+	Salimia Gel 	1	5000													
+	Fefo T 	20	2000													
+																
+																
+12.29.2025	Emdelyn Syrup 	1	4000													
+	Ps	1	5000													
+	Omeprazole C 	20	4000													
+	Amoxicillin C 	20	2000													
+																
+																
+12.30.2025	Trenaxamic Acid inj	1	6000													
+	Diclopar Tabs 	20	2000													
+	Coc	1	2500													
+	Pcm Tabs 	30	3000													
+																
+																
+12.31.2025	Ps 	1	5000													
+	Metronidazole Tabs 	30	3000													
+	Doxin Caps 	10	1000													
+	CTX Tabs 	10	1000													
+	Cold T 	1	1000													
+	Ibuprofen Tabs 	20	2000													
+	Activa Gel 	1	4000													
+	P2	1	5000													
+	Doxin Caps 	10	2000													
+	Metronidazole Tabs 	30	3000													
+	Pcm Tabs 	20	2000													
+																
+																
+01. 01. 2025	Pedzinc Syrup 	1	4000													
+	Erythromicin Syrup 	1	4000													
+	Diclopar Tabs 	20	2000													
+	Pcm 	1	1000													
+	Hydrocortisone cream 	1	3000													
+	Tramadol C 	10	2000													
+	Albendazole T 	1	2000													
+																
+																
+01. 03. 2025 	Dp	1	4000													
+	Metronidazole Tabs	30	3000													
+	Doxin Caps	10	2000													
+	Metronidazole Tabs	30	3000													
+	Doxin Caps	10	2000													
+	Ps	2	10,000													
+	Kiss Condom	1	1500													
+	Pcm Tabs	10	1000													
+																
+																
+01.04.2026	Goodmorning Syrup 	1	4000													
+	Piriton Tabs	1044	1000													
+	Omeprazole C 	20	4000													
+	Prednisolone T 	10	2000													
+	Meloxicam Tabs 	10	3000													
+	UPT 	2(Rucho) 	2000													
+																
+																
+01. 05. 2026	Metronidazole Tabs	30	3000													
+	Metronidazole Syrup	1	4000													
+	Ibuprofen Tabs	20	2000													
+	Dexaneomycin	1	3009													
+	Emdelyn Syrup	1	4000													
+	Pcm Tabs 	10	1000													
+	Skderm Cream 	1	5000													
+	Dp	1 mayai	4000													
+	Cvp	1	5000													
+	Fluconazole	5	5000													
+	Cold T	1	1000													
+	Pen V T 	10	2000													
+	CTX Tabs	10	2000													
+	Pcm	15	1500													
+	Cold Syrup 	1	4000													
+	Vivian Tabs 	10	2000													
+	Pcm Tabs	20	2000													
+	Cipron Tabs 	10	2000													
+	Ps	1	5000													
+	Ibuprofen Syrup 	1	4000													
+																
+																
+																
+																
+																
+																
+																
+																
+																44
+                                                                DATE 	E~ssssssssss##3	AMMOUNT 	SELL PRICE 
+06.01.2025	Dexaneomycin 	1	3000
+	Pcm Tabs 	10	1000
+	Ibuprofen Tabs 	30	3000
+	Erythromicin Tabs 	15	3000
+	Dawa 3	5	1000
+	Kiss Condom 	2	2000
+	Vivian Tabs 	10	2000
+	Ps	1	5000
+			20
+			
+07.01.2025	Ampiclox Syrup 	1	4000
+	Metronidazole Syrup 	1	4000
+	Omeprazole C 	10	2000
+	Ibuprofen Tabs 	20	2000
+	Albendazole Syrup 	1	2500
+	Azithromicin T 	1	5000
+	Diclofenac Gel 	1	3000
+	Ts	1	3000
+	Ciprofloxacin	10	2000
+	Erythromicin Tabs	15	3000
+	Tinidazole T	3	3000
+	Ps	1	5000
+			38
+			
+08.01.2026	Ps	1	5000
+	Nifedipine	10	2000
+	Azithromicin T	1	5000
+	Piriton Tabs 	10	1000
+	Pcm Tabs 	10	1000
+	Depo 	2	7000
+	Vivian Tabs 	5	1000
+	Metronidazole Tabs 	30	3000
+	Omeprazole C 	10	2000
+	Amoxicillin C 	30	3000
+			30
+			
+09.01.2026	Activa Gel 	1	4000
+	Ampiclox Caps 	15	3000
+	Ibuprofen Tabs 	20	2000
+	Koflyn Syrup 	1	4000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Azithromicin T	1	5000
+	Azithromicin Syrup 	1	5000
+			26
+			
+10. 01.2026	Kiss Condom 	1	1000
+	Bull Condom	1	1500
+	Cipron Tabs	10	2000
+	Ibuprofen Tabs 	20	2000
+	Pcm Tabs 	10	1000
+	Dexaneomycin 	1	4000
+	Dawa 3	5	1000
+	White Field 	1	3000
+	Cold Syrup	1	4000
+	Nor5	1	3000
+	Ibuprofen Tabs 	20	2000
+	Cipron Tabs 	10	2000
+	Diclopar Tabs 	10	1000
+	Ps	1	5000
+	Doxin Caps 	10	2000
+	Metronidazole Tabs 	40	4000
+	CTX Tabs 	10	2000
+	Emdelyn Syrup	1	4000
+	Cold T 	,,	1000
+	Indometacin Caps 	10	2000
+	Emdelyn Syrup 	1	4000
+	Cold Syrup 	1	4000
+			65.5
+			
+11.01.2025	Pcm Tabs 	20	2000
+	Doxin Caps	10	2000
+	Cipron Tabs 	10	2000
+	Pcm Tabs 	15	1500
+	Dawa 3	5	1000
+	Cipron Tabs	10	2000
+	Ibuprofen	20	2000
+	Ps	1	5000
+	Ts	1	3000
+	Glucose 	1	1000
+	Sonaderm Cream 	1	4000
+	Amoxicillin Dt	10	2000
+			27.5
+			
+12.01.2025	CTX Tabs 	5	1000
+	Amoxicillin C 	10	1000
+	VP 	1	5000
+	Doxin Caps	15	3000
+	Metronidazole 	30	3000
+	Pcm Tabs 	20	2000
+	Chloramphenical Syrup 	1	4000
+	Metronidazole Syrup	1	4000
+	Fluconazole Caps	3	3000
+	Skyderm cream 	1	5000
+	Emdelyn Syrup 	1	4000
+	Cephalexin Caps 	30	6000
+	Piriton Tabs 	20	2000
+			43
+			
+13.01.2026	Pcm Tabs 	10	1000
+	Koflyn Syrup 	1	4000
+	Cetirizen Syrup 	1	4000
+	Albendazole Syrup 	1	2500
+	Prednisolone T	10	2000
+	Ps	1	5000
+	Doxin Caps 	10	2000
+	Metronidazole Tabs 	30	3000
+	Ibuprofen Syrup 	1	4000
+	Cold Syrup 	1	4000
+	UPT 	2	2000
+			33.5
+			
+14.01.2026	Ps	1	5000
+	Azithromicin T	1	5000
+	Ts	1	3000
+	Ibuprofen Tabs	20	2000
+	Clorimazole Cream	1	3000
+	UPT	1	1000
+	Nifedipine T	30(Mwambela) 	6000
+	Furoseminde T 	30''	6000
+	Piriton Tabs 	20	2000
+	Ibuprofen Syrup	1	4000
+	Cetirizen Syrup	1	4000
+	Fefo T	20	2000
+	CTX Tabs	10	2000
+	Diclopar Tabs 	10	1000
+	Prednisolone T	10	2000
+			
+			
+15.01.2026	Amoxicillin Dt	10	2000
+	Ps 	1	5000
+	Ibuprofen Tabs	20	2000
+	Diclofenac Tabs 	20	2000
+	Skyderm cream 	1	5000
+	Ts	2	6000
+	Ibuprofen Syrup	1	4000
+	Azithromicin Syrup	1	5000
+	Pcm Tabs 	30	3000
+	Omeprazole C 	10	2000
+	Azithromicin T 	1	5000
+	Ibuprofen Tabs 	10	1000
+	Cold Syrup 	1	4000
+			
+			
+16.01.2026	Ps	1	5000
+	Ampiclox Caps	15	3000
+	Ibuprofen Tabs 	10	1000
+	Ps	1	5000
+	Dp	1	4000
+	Cetirizen Syrup 	1	4000
+	Emdelyn Syrup 	1	4000
+	Magnesium Tabs 	10	1000
+	Azithromicin T 	1	5000
+	Tramadol C 	10	2000
+	Emdelyn Syrup 	1	4000
+	Ibuprofen Tabs 	20	2000
+			
+			
+17.01.2026	NA 	NA	NA
+			
+18.01.2026	Cold Syrup 	1	4000
+	Emdelyn Syrup	1	4000
+	Azithromicin T	1	5000
+	Pcm Tabs 	10	1000
+			14
+19.01.2026	NA	NA	NA
+			
+20.01.2026	NA	NA	NA
+			
+21.01.2026	Emdelyn Syrup	1	4000
+	Omeprazole C 	10	2000
+			6
+			
+22.01.2026	CTX Syrup	1	4000
+	Ibuprofen Syrup	1	4000
+	Cetirizen Syrup 	1	4000
+	Haloperidol 1.5mg 	40	8000
+	Benzehexol Tabs 	10	3000
+	Clorimazole Cream 	1	3000
+	Clorimazole V Pessaries 	1	5000
+	Pcm Tabs 	10	1000
+	Ts	1	3000
+	Mucolin Adult 	1	4000
+			40
+			
+23.01.2026	Dawa 3	5	1000
+	Dp	1	4000
+	Azithromicin T 	1	5000
+	Pcm Tabs 	20	2000
+	UPT 	1	1000
+	Tramadol C 	70	14,000
+	Prednisolone T	10	2000
+	Dawa 3	10	2000
+	Bisacodyle T	20	4000
+	Mifupain 	10	2000
+	Cetirizen T 	20	2000
+			39
+			
+25. 01.2026	Dp	1	3500
+	Omeprazole Caps 	20	4000
+	Diclopar Tabs 	20	2000
+	Metronidazole Tabs 	60	6000
+	Fluconazole Caps 	2	2000
+	Clorimazole V Pessaries 	1	5000
+	Njoi T 	1	3000
+	Diclopar Tabs 	15	1500
+	Coc	1 M. Leah 	2500
+	Fefo T 	50	5000
+			34
+26.02.2026	NA	NA	NA
+27.02.2026	NA	NA	NA
+28.02.2026	NA	MA	NA
+29.02.2026	NA	NA	NA
+30.02.2026	NA	NA	NA
+			
+02.02.2026	Coc	1	2500
+	Ibuprofen Tabs 	30	3000
+	Diclopar Tabs 	10	1000
+	UPT 	1	1000
+	Coc 	1	2500
+	Prednisolone T	10	2000
+	Diclopar T 	20	2000
+	Pcm Tabs 	30	3000
+			16.5
+			
+03.02.2026	Tetracycline E Ointment 	1	3000
+	Glucometer 	1	3000
+	Dexaneomycin 	1	3000
+	Metronidazole Tabs 	10	1000
+	Emdelyn Syrup 	1	4000
+	Erythromicin Syrup 	1	4000
+	Albendazole Tabs 	1	2000
+	Metronidazole Tabs 	20	2000
+	Amoxicillin Caps 	30	3000
+	Activa Gel	1	4000
+	Metronidazole Tabs	20	2000
+	CTX Tabs 	15	3000
+	Kiss Condom 	2	2000
+	Emdelyn Syrup 	2	8000
+	CTX Tabs 	10	2000
+	Diclofenac Tabs 	10	1000
+			44
+			
+04.02.2026	Zecuf Syrup 	1	4000
+	Cold T 	1	1000
+	Cipron Tabs 	10	2000
+	Ibuprofen Tabs 	10	1000
+	UPT 	2	2000
+	Diclofenac Gel 	1	3000
+	Ibuprofen Tabs 	10	1000
+	Ts	1	3000
+	UPT 	1	1000
+	Indometacin Caps 	10	2000
+			19
+			
+5.022026	Azithromicin T 	2	10,000
+	Pcm Tabs 	40	4000
+	Zecuf Syrup 	1	4000
+	Ts	1	3000
+	BP ts	1	2000
+	Malafin T 	1	3000
+	Ibuprofen Tabs 	20	2000
+	Totomol Syrup 	1	3000
+	Pcm Tabs	30	3000
+	CTX Tabs	10	2000
+	Cipron Tabs	10	2000
+	Cold T	2	2000
+	Tinidazole T	2	2000
+	Skderm cream 	1	5000
+	CVP	1	5000
+	Kiss Condom	1	1000
+	Nifedipine T	20	4000
+			57
+
+            			
+06.02.2026	Sheladol Syrup	1	3000
+	Cetirizen Syrup	1	4000
+	Emdelyn Syrup 	1	4000
+	Pcm Tabs 	20	2000
+			
+			
+07.02.2926	Multvitamim Tabs 	10	2000
+	CTX Tabs 	10	2000
+	Emdelyn Syrup 	1	4000
+	Dp	2	8000
+	Azithromicin 	1	5000
+	Indometacin Caps 	10	2000
+	Amoxicillin C 	10	1000
+	Mifupain 	5	1000
+	Coc 	1	2000
+			
+			
+08.02.2026	Ampiclox Caps 	15	3000
+	Prednisolone T	20	4000
+	Dawa 3	20	2000
+	Pcm Tabs 	20	2000
+	Ps	1	5000
+	Ciprofloxacin T 	10	2000
+	Cetirizen T 	20	2000
+	Mifupain 	10	2000
+	Mifupain 	5	1000
+	Omeprazole Caps 	10	2000
+			
+			
+09.02.2026	CTX 	10	2000
+	Cold T 	2	2000
+	Pcm Tabs 	20	2000
+	Ciprofloxacin T 	10	2000
+	Chlorphamine Tabs 	10	1000
+	Ps	1	5000
+	Emdelyn Syrup 	1	4000
+	Fefo T 	30	3000
+	Diclofenac Tabs 	10	1000
+	Mifupain 	5	1000
+			
+			
+10.02.2026	Coldril Syrup 	1	4000
+	Erythromicin Tabs 	20	4000
+	Tinidazole T 	3	3000
+	Mg 	10	1000
+	Mifupain 	5	1000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Tinidazole T 	2	2000
+	Diclofenac Tabs 	10	1000
+			
+			
+11.02. 2026	Emdelyn Syrup 	1	4000
+	Pcm T 	20	2000
+	Cold T 	2	2000
+	Doxin Caps 	10	2000
+	Pcm 	10	1000
+	Indometacin Caps 	20	4000
+	Cold T 	1	1000
+	Coldril Tabs 	3	1500
+			
+			
+12.02.2026	Piroxicam Caps 	10	3000
+	Aceclofenac T 	1	2000
+	Piroxicam Caps 	20	4000
+	Nifedipine T	30	6000
+	Furoseminde T 	30	6000
+	Pcm Syrup 	1	3000
+	Emdelyn Syrup 	1	4000
+	CTX Syrup 	1	4000
+	Ts	1	3000
+			
+			
+13.02.2026	Ts	1	3000
+	Pcm Syrup 	1	3000
+	CTX Syrup 	1	4000
+	Pcm T 	10	1000
+	Piriton Tabs 	20	2000
+	Dp	1	4000
+	UPT 	1	1000
+	Mouth Wash 	1	3000
+	Diclofenac Gel 	1	3000
+	Pcm Tabs 	10	1000
+			
+			
+14.02.2026	Coldril Caps 	4	2000
+	Pcm Tabs 	10	1000
+	P2	1	4000
+	Erythromicin Tabs 	10	2000
+	Tinidazole T 	1	1000
+	Dexaneomycin 	1	4000
+	Piroxicam Caps 	10	3000
+	Ampiclox Syrup 	1	4000
+	Dr Cold Syrup 	1	4000
+			
+			
+15.02.2026	Ps	1	5000
+	White Field 	1	3000
+	Azithromicin T 	1	5000
+	Dexaneomycin 	1	4000
+	Omeprazole C 	10	2000
+	Azithromicin T 	1	5000
+	Metronidazole Tabs 	30	3000
+	Pcm Tabs 	15	1500
+	Emdelyn Syrup 	1	4000
+	Cold T 	2	2000
+	Promethazine T 	10	2000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Diclopar Tabs 	20	2000
+			
+			
+16.02.2026	Cipron Tabs	10	2000
+	Azithromicin T	1	5000
+	Cetirizen T	10	1000
+	Albendazole T	1	2000
+	Ts 	2	6000
+	Pcm Tabs 	20	2000
+	Emdelyn Syrup 	1	4000
+	Metronidazole Syrup	1	4000
+	Cipron Tabs	10	2000
+	Cetirizen T 	20	2000
+	Pcm Tabs 	20	2000
+	Pcm Tabs 	30	3000
+	Coc 	1	2000
+	Cipron Tabs 	10	2000
+	Metronidazole Tabs 	30	3000
+	Cetirizen T 	10	1000
+	Metronidazole Gel 	1	4000
+	Ampiclox Caps 	10	2000
+			
+			
+17.02.2026	Cipron Tabs 	10	2000
+	Piroxicam Caps 	10	3000
+	Pcm Tabs 	10	1000
+	Dp	1	3000
+	Alu Syrup 	1	3000
+	Cipron Tabs 	10	2000
+	Pcm 	10	1000
+	Azithromicin T 	1	5000
+	Pcm 	20	2000
+	Ciprofloxacin T 	20	4000
+	Ts	1	3000
+	Amoxicillin C 	20	2000
+	Azithromicin Syrup	1	5000
+	Ibuprofen Syrup	1	4000
+	Ts	1	3000
+	Dexaneomycin	1	4000
+	Dp	1	4000
+	Coldril Caps	6	3000
+	Ibuprofen	10	1000
+	Hydrocortisone cream 	1	3000
+	Metronidazole Tabs 	30	3000
+	Skyderm cream 	2	10,000
+	CTX Tabs 	10	2000
+			
+			
+18.02.2026	Dexaneomycin 	1	4000
+	Metronidazole Tabs 	20	2000
+	Metronidazole Tabs	20	2000
+	Mifupain	10	2000
+	Pcm 	20	2000
+			
+			
+19.02.2026	Indometacin Caps	10	2000
+	Pcm Tabs 	20	2000
+	Spirit	1	1000
+	Dr Cold Syrup 	1	4000
+	Emdelyn Syrup 	1	4000
+	Coldril Syrup 	1	4000
+	Pcm Syrup 	1	3000
+	UPT 	1	1000
+			
+			
+20.02.2026	Ibuprofen Tabs 	30	3000
+	Pcm Tabs 	20	2000
+	Emdelyn Syrup 	1	4000
+	Cetirizen T 	10	1000
+	Coc 	1	2000
+	P2	2	8000
+	DT	5	1000
+	Indometacin Caps 	10 Mwambela 	2000
+	Maltvitamin T	20	4000
+	Skyderm cream 	1	5000
+	Nifedipine Tabs 	30	6000
+	Bull Condom 	2	3000
+			
+			
+21.02.2026	Piroxicam Caps	10	3000
+	Metronidazole Tabs	20	2000
+	Pcm Tabs 	10	1000
+	CTX Tabs 	10	2000
+	Pen V T 	10	2000
+	Indometacin Caps 	20	4000
+			
+			
+22.02.2026	Ampiclox Caps 	15 M rose	3000
+	Dp 	1	3000
+	Pcm T 	30	3000
+	Ts	3	9000
+	Cipron Tabs 	20	4000
+	Coc T	1	2000
+	CTX Tabs 	20	4000
+	Cetirizen T 	20	2000
+	Ibuprofen Tabs 	20	2000
+	UPT 	2	2000
+	Ts	1	3000
+	Chloramphenical Syrup 	1	4000
+	Dr Cold Syrup 	1	4000
+			
+			
+23.02.2026	Dexaneomycin 	1	3000
+	CTX Tabs	10	2000
+	Cold T	1	1000
+	Azithromicin T	1	5000
+	Ibuprofen Tabs 	10	1000
+	Ps	1	5000
+	White Field 	1	3000
+	Metronidazole Tabs 	30	3000
+	Mucolin Adult 	1	3000
+	Coc 	1	2000
+	Albendazole T 	1	2000
+	Azithromicin T 	1	5000
+	Cipron Tabs 	10	2000
+	Pcm Tabs 	10	1000
+			
+			
+24.02.2026	Cipron Tabs 	10	2000
+	Diclopar Tabs 	10	1000
+	Alu Syrup 	1	3000
+	Pcm Tabs 	10	1000
+	Azithromicin T 	1	5000
+	Cipron Tabs 	10	2000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Ampiclox Syrup 	1	4000
+	Ts	3 Buzana	9000
+	Ampiclox Caps 	10	2000
+	Prednisolone 	10	2000
+	Cold T 	1	1000
+	Coc 	2	4000
+	Doxin Caps 	10	2000
+	Metronidazole Tabs 	30	3000
+	Ampiclox Caps 	10	2000
+	Cetirizen T 	20	2000
+	Dexaneomycin 	1	3000
+			
+			
+25.02.2026	Doxin Caps 	10	2000
+	Metronidazole Tabs 	30	3000
+	Dp	1	4000
+	Pcm Tabs 	20	2000
+	CvP	1	5000
+	Sonaderm Cream 	1	4000
+	Emdelyn Syrup 	2	8000
+	Cold T 	2	2000
+	Ampiclox Caps 	15	3000
+	Metronidazole Tabs 	30	3000
+			
+			
+26.02.2026	Koflyn Syrup 	1	4000
+	Cold T 	2	2000
+	CTX Tabs 	10	2000
+	Cold T 	1	1000
+	Diclofenac Tabs 	10	1000
+	Malafin T 	1	3000
+	Pcm Tabs 	10	1000
+	Dexaneomycin 	1	3000
+	Activa Gel 	1	4000
+	Mifupain 	15	3000
+	Goodmorning Syrup 	1	4000
+	Alcer Syrup	1	4000
+	Omeprazole C	30	6000
+	Hyoscine T	10	2000
+	Pcm Tabs 	10	1000
+	Ps	1	5000
+	P2	1	4000
+			
+			
+27.02.2026	Emdelyn	1	4000
+	Metronidazole	1	4000
+	Pedzinc Syrup	1	4000
+	Ampiclox Syrup	1	4000
+	Ts	1	3000
+	Pedzinc Syrup 	1	4000
+	Erythromicin Syrup 	1	4000
+			
+			
+28.02.2026	Ampiclox Caps 	10	2000
+	Metronidazole Tabs 	30	3000
+	Tramadol Caps 	10	2000
+	UPT 	2	2000
+	Pcm Tabs 	10	0
+			
+			
+01.03.2026	Skderm Cream	1	5000
+	UPT	1	1000
+	Cipro Tabs	10	2000
+	Pcm Tabs	10	1000
+	Pcm Syrup	1	3000
+	CTX Syrup	1	4000
+	Ampiclox Caps	10	3000
+	Metronidazole Tabs	60	6000
+	Azithromicin T 	1	5000
+	Ibuprofen Tabs 	20	2000
+	Cipro Tabs 	10	2000
+			
+			
+02.03.2026	Ampiclox Caps 	10	2000
+	Emdelyn Syrup 	1	4000
