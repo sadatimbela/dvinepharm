@@ -3,6 +3,7 @@
 import React from 'react';
 import { ProductInputSection } from '@/modules/pos/components/ProductInputSection';
 import { CartPanel } from '@/modules/pos/components/CartPanel';
+import { RecentSalesPanel } from '@/modules/pos/components/RecentSalesPanel';
 import { Clock, ShoppingCart } from 'lucide-react';
 import { PageHeader } from '@/components/ui/PageHeader';
 
@@ -42,7 +43,10 @@ export default function POSPage() {
       {/* -- Two-column layout, stacks vertically on mobile -- */}
       <div className="grid-responsive-2-1 pos-layout" style={{ marginTop: '32px' }}>
         <ProductInputSection />
-        <CartPanel />
+        <div>
+          <CartPanel />
+          <RecentSalesPanel />
+        </div>
       </div>
     </div>
   );
